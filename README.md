@@ -273,7 +273,8 @@ Metrics:
 
 ### Overview
 
-Built multiple binary classification models using PyTorch, covering the complete machine learning workflow from synthetic dataset generation to model evaluation and visualization.
+Built multiple binary c<img width="833" height="582" alt="image" src="https://github.com/user-attachments/assets/c821cc91-2cb9-4eb5-b12d-410a565f2403" />
+lassification models using PyTorch, covering the complete machine learning workflow from synthetic dataset generation to model evaluation and visualization.
 
 The project demonstrates how neural networks learn decision boundaries using linear and non-linear architectures.
 
@@ -373,7 +374,7 @@ Metrics:
 <details open>
   <summary>Circle data</summary>
 
-<img width="559" height="413" alt="image" src="https://github.com/user-attachments/assets/eeeff65b-cbe5-4e53-9796-d6364e64b781" />
+<img width="833" height="582" alt="image" src="https://github.com/user-attachments/assets/738a5407-fbc4-48cb-9775-01dd7ee6c393" />
 
 </details>
 
